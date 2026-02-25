@@ -12,4 +12,5 @@ La valeur de l'indice NDWI varie entre -1 et 1. L'interprétation des valeurs ND
 0.0 - 0.2 : Peuvent représenter des eaux peu profondes, des zones humides ou des zones à forte humidité du sol.
 -0.3 - 0.0 : Indiquent généralement une sécheresse modérée, surfaces non aqueuses
 -1 - -0.3 : Indiquent généralement une sécheresse, surfaces non aqueuses
+
 McFEETERS, S. K. (1996). The use of the Normalized Difference Water Index (NDWI) in the delineation of open water features. International Journal of Remote Sensing, 17(7), 1425–1432. https://doi.org/10.1080/01431169608948714
