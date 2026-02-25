@@ -1,3 +1,5 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dotido10/Trou_Caiman/blob/main/Trou_Caiman.ipynb)
+
 L'objectif de ce notebook est de presenter une methode qui permet d'estimer le changement de la surface en eau d'un lac en comparant les images satellitaires observées à 2 dates differentes. Pour estimer ce changement nous allons utiliser deux images du satellite Sentinel-2 de l'ESA (European Space Agency). Nous allons calculer le Normalize Difference Water Index (NDWI) ou indice d’eau par différence normalisée pour chacune de ces images et comparer les resultats obtenus.
 
 Le NDWI (McFeeters en 1996) est utilisé principalement pour détecter et surveiller de faibles changements de la teneur en eau aux bassins d’eau. En exploitant les longueurs d'ondes proche infrarouge (Near Infrared) et le vert visible (Green), le NDWI permet d’améliorer la détection des bassins d’eau sur les images satellitaires.
