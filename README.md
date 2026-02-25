@@ -9,8 +9,11 @@ Le vert visible maximise la capacité de réflexion de la surface de l’eau. Le
 La valeur de l'indice NDWI varie entre -1 et 1. L'interprétation des valeurs NDWI peut varier selon l'application et le type d'environnement étudié. Pour la détection des plans d'eau, l'une des principales applications de l'indice NDWI, les valeurs de l'indice NDWI correspondent approximativement aux plages suivantes : Les valeurs de l'indice NDWI correspondent approximativement aux plages suivantes :
 
 0.2 - 1 : Indiquent généralement des plans d'eau clairs et ouverts.
+
 0.0 - 0.2 : Peuvent représenter des eaux peu profondes, des zones humides ou des zones à forte humidité du sol.
+
 -0.3 - 0.0 : Indiquent généralement une sécheresse modérée, surfaces non aqueuses
+
 -1 - -0.3 : Indiquent généralement une sécheresse, surfaces non aqueuses
 
 McFEETERS, S. K. (1996). The use of the Normalized Difference Water Index (NDWI) in the delineation of open water features. International Journal of Remote Sensing, 17(7), 1425–1432. https://doi.org/10.1080/01431169608948714
